@@ -3,7 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/repos/Quizzifun/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Downloads2/Quiz-App--master/Quiz-App--master/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Downloads2/Quiz-App--master/Quiz-App--master/app/src/main/res/drawable/selected_option_border_bg.xml" value="0.124" />
+        <entry key="..\:/Downloads2/Quiz-App--master/Quiz-App--master/app/src/main/res/drawable/wrong_option_border_bg.xml" value="0.124" />
+        <entry key="..\:/Downloads2/Quiz-App--master/Quiz-App--master/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Downloads2/Quiz-App--master/Quiz-App--master/app/src/main/res/layout/activity_quiz_questions.xml" value="0.12" />
+        <entry key="..\:/Downloads2/Quiz-App--master/Quiz-App--master/app/src/main/res/layout/activity_result.xml" value="0.2" />
+        <entry key="..\:/Downloads2/Quiz-App--master/Quiz-App--master/app/src/main/res/layout/activity_splash.xml" value="0.11302083333333333" />
       </map>
     </option>
   </component>
